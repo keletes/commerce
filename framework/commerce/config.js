@@ -11,6 +11,7 @@ const PROVIDERS = [
   'bigcommerce',
   'saleor',
   'shopify',
+  'strapi',
   'swell',
   'vendure',
   'local',
